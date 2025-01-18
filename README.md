@@ -2,7 +2,7 @@
 
 [Show Demo](http://website-kenangan.alii.rf.gd/?i=1)
 
-![preview](assets/img/preview.png)
+<img src="assets/img/preview.png" alt="preview" style="border-radius: 15px; width: 100%; max-width: 600px;">
 
 ## 🚀 How to Use
 
