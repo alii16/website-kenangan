@@ -1,6 +1,7 @@
 # Website Museum
 
-[Demo](http://website-kenangan.alii.rf.gd/?i=1)
+[Show Demo](http://website-kenangan.alii.rf.gd/?i=1)
+
 ![preview](assets/img/preview.png)
 
 ## 🚀 How to Use
