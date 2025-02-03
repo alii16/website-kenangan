@@ -1,6 +1,6 @@
 # Website Museum
 
-[Show Demo](https://website-kenangan.alii.rf.gd/?i=1)
+[Show Demo](https://museum.alii.mra.my.id)
 
 <img src="assets/img/preview.png" alt="preview" style="border-radius: 15px; width: 100%; max-width: 600px;">
 
